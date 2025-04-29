@@ -10,20 +10,20 @@ Lab assignments for Parallel and Distributed Computing course.
 
 ## Problems
 
-### Problem 1: MPI Ring Communication
+### Problem 2: MPI Ring Communication
 
 MPI implementation where processes form a ring and pass messages.
 
 ```bash
-cd Problem1
+cd Problem2
 mpiexec -n <number_of_processes> python main.py
 ```
 
-### Problem 2: Token Ring Algorithm
+### Problem 3: Token Ring Algorithm
 
 Threading implementation of a token ring for printer access.
 
 ```bash
-cd Problem2
+cd Problem3
 python main.py
 ```
