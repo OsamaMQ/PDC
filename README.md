@@ -14,7 +14,7 @@ Lab assignments for Parallel and Distributed Computing course.
 
 MPI implementation where processes form a ring and pass messages.
 
-```bash
+```bash 
 cd Problem2
 mpiexec -n <number_of_processes> python main.py
 ```
